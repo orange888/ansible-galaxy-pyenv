@@ -9,7 +9,7 @@ Ansible Galaxy role for [pyenv](https://github.com/orange888/pyenv) on Ubuntu / 
 Install it with the following command:
 
 ```bash
-$ ansible-galaxy install orange888.pyenv
+$ ansible-galaxy install orange888.ansible-galaxy-pyenv
 ```
 
 Requirements

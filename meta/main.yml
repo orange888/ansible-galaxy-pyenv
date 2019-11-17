@@ -1,7 +1,7 @@
 ---
 galaxy_info:
-  author: Maxim Avanov
-  description: Ansible Galaxy role for pyenv (https://github.com/yyuu/pyenv).
+  author: Orange888
+  description: Ansible Galaxy role for pyenv (https://github.com/orange888/ansible-galaxy-pyenv).
   company:
   # Some suggested licenses:
   # - BSD (default)
@@ -107,7 +107,7 @@ galaxy_info:
   # Below are all categories currently available. Just as with
   # the platforms above, uncomment those that apply to your role.
   #
-  categories:
+  galaxy_tags:
   #- cloud
   #- cloud:ec2
   #- cloud:gce
