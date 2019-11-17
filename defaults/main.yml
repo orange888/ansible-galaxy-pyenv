@@ -34,24 +34,25 @@ pyenv_debian_packages:
   - llvm 
   - libncurses5-dev
   - libncursesw5-dev
-  - tk-dev
   - xz-utils
+  - tk-dev
   - libffi-dev
   - liblzma-dev
   - python-openssl
   - git
 pyenv_redhat_packages:
-  - make
-  - git
-  - gcc
-  - libselinux-python
+  - @development
   - zlib-devel
-  - openssl-devel
+  - bzip2
   - bzip2-devel
   - readline-devel
-  - libffi-devel
+  - sqlite
   - sqlite-devel
-  - gdbm-devel
+  - openssl-devel
+  - xz
+  - xz-devel
+  - libffi-devel
+  - findutils
 pyenv_osx_packages:
   - readline
   - xz
