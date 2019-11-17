@@ -67,4 +67,4 @@ MIT
 Author Information
 ------------------
 
-orange888 (https://maximavanov.com/)
+orange888
