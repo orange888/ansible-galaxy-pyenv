@@ -41,7 +41,7 @@ pyenv_debian_packages:
   - python-openssl
   - git
 pyenv_redhat_packages:
-  - @development
+  - '@development'
   - zlib-devel
   - bzip2
   - bzip2-devel
