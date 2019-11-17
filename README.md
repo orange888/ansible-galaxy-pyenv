@@ -1,7 +1,7 @@
-avanov.pyenv
+orange888.pyenv
 ============
 
-[![Build Status](https://travis-ci.org/orange888/ansible-galaxy-pyenv.svg)](https://travis-ci.org/avanov/ansible-galaxy-pyenv)
+[![Build Status](https://travis-ci.org/orange888/ansible-galaxy-pyenv.svg)](https://travis-ci.org/orange888/ansible-galaxy-pyenv)
 
 
 Ansible Galaxy role for [pyenv](https://github.com/orange888/pyenv) on Ubuntu / RedHat / OSX.
@@ -42,7 +42,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - role: avanov.pyenv
+         - role: orange888.pyenv
            pyenv_path: "{{ home }}/pyenv"
            pyenv_owner: "{{ instance_owner }}"
            pyenv_global: "3.6.5"
@@ -67,4 +67,4 @@ MIT
 Author Information
 ------------------
 
-Maxim Avanov (https://maximavanov.com/)
+orange888 (https://maximavanov.com/)
